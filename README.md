@@ -3,9 +3,9 @@
 ## Background
 Web Application is deployed at the following link: 
 
-https://github.com/ThaoLeatherman/HW17MappingWeb/blob/master/map.PNG
 
-![1-Logo](https://github.com/ThaoLeatherman/HW17Test/blob/master/1-Logo.png)
+
+![1-Logo](https://github.com/ThaoLeatherman/HW17MappingWeb/blob/master/map.PNG)
 
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
