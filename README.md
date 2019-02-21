@@ -10,7 +10,6 @@
 
 ![2-BasicMap](https://github.com/ThaoLeatherman/HW17MappingWeb/blob/master/mapbox.PNG)
 
-Your first task is to visualize an earthquake data set.
 
 
 
