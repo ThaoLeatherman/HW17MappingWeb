@@ -15,7 +15,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Level 1: Basic Visualization
 
-![2-BasicMap](https://github.com/ThaoLeatherman/HW17Test/blob/master/2-BasicMap.png)
+![2-BasicMap](https://github.com/ThaoLeatherman/HW17MappingWeb/blob/master/mapbox.PNG)
 
 Your first task is to visualize an earthquake data set.
 
