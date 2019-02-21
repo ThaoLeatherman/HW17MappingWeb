@@ -1,7 +1,9 @@
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
 ## Background
-Web Application is deployed at teh following link: https://github.com/ThaoLeatherman/HW17MappingWeb/blob/master/map.PNG
+Web Application is deployed at the following link: 
+
+https://github.com/ThaoLeatherman/HW17MappingWeb/blob/master/map.PNG
 
 ![1-Logo](https://github.com/ThaoLeatherman/HW17Test/blob/master/1-Logo.png)
 
